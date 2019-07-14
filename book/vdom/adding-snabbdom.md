@@ -15,7 +15,7 @@ In this project, I've chosen to use [snabbdom](https://github.com/snabbdom/snabb
 Using `npm` or `yarn`:
 
 ```
-$ yarn install snabbdom
+$ yarn add snabbdom
 ```
 
 ## Delegate the DOM manipulations to snabbdom
